@@ -1,5 +1,5 @@
 # Bduncani
-Scripts and data for Bduncani genome project
+Scripts and data for Bduncani genome project </br>
 The MGFs directory contains the list gene_ID for each gene_family in separate text files.
 1. umgf1.txt for BdUMGF1
 2. umgf2.txt for BdUMGF2
