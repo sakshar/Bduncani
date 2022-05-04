@@ -1,0 +1,92 @@
+LOCUS       BdWA1           3133627 bp    DNA     linear   CON 27-APR-2022
+DEFINITION  Babesia duncani chromosome 1 sequence.
+ACCESSION   BdWA1
+VERSION     BdWA1.0
+KEYWORDS    RefSeq.
+SOURCE      Babesia duncani (parasite)
+  ORGANISM  Babesia duncani
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+FEATURES             Location/Qualifiers
+     source          1..3133627
+                     /organism="Babesia duncani"
+                     /mol_type="genomic DNA"
+                     /chromosome="1"
+     mRNA            1690000..1730000
+                     /gene="Centromere"
+     mRNA            complement(1690000..1730000)
+                     /gene="Centromere"
+     gene1           complement(70775..107647)
+                     /gene="BdWA1_000003"
+     gene1           complement(4..67894)
+                     /gene="BdWA1_000001"
+     gene1           complement(107938..119902)
+                     /gene="BdWA1_000004"
+     gene1           complement(68119..70266)
+                     /gene="BdWA1_000002"
+     gene4           complement(1291184..1292724)
+                     /gene="BdWA1_000580"
+     gene4           complement(1672641..1674803)
+                     /gene="BdWA1_000770"
+     gene4           complement(1677380..1679227)
+                     /gene="BdWA1_000773"
+     gene4           complement(1684278..1686125)
+                     /gene="BdWA1_000777"
+     gene5           1409375..1410253
+                     /gene="BdWA1_000646"
+     gene5           1412764..1413645
+                     /gene="BdWA1_000647"
+     gene5           1414452..1415349
+                     /gene="BdWA1_000648"
+     gene5           1416131..1417055
+                     /gene="BdWA1_000649"
+     gene5           1417837..1418770
+                     /gene="BdWA1_000650"
+     gene5           1419094..1419977
+                     /gene="BdWA1_000651"
+     gene5           1420784..1421681
+                     /gene="BdWA1_000652"
+     gene5           1422463..1423387
+                     /gene="BdWA1_000653"
+     gene5           1424203..1425123
+                     /gene="BdWA1_000654"
+     gene6           complement(1238163..1239446)
+                     /gene="BdWA1_000555"
+     gene7           complement(481210..483171)
+                     /gene="BdWA1_000191"
+     gene7           637513..639009
+                     /gene="BdWA1_000266"
+     gene7           642533..644077
+                     /gene="BdWA1_000268"
+     gene7           645109..646629
+                     /gene="BdWA1_000269"
+     gene7           647661..649205
+                     /gene="BdWA1_000270"
+     gene7           complement(1141449..1142018)
+                     /gene="BdWA1_000500"
+     gene7           1543178..1543888
+                     /gene="BdWA1_000716"
+     gene7           2317590..2318723
+                     /gene="BdWA1_001123"
+     gene8           139835..140585
+                     /gene="BdWA1_000011"
+     gene8           231153..233012
+                     /gene="BdWA1_000054"
+     gene8           1197238..1198680
+                     /gene="BdWA1_000531"
+     gene8           complement(1500013..1501830)
+                     /gene="BdWA1_000698"
+     gene8           complement(2076965..2077811)
+                     /gene="BdWA1_001000"
+     gene8           complement(2180942..2183431)
+                     /gene="BdWA1_001055"
+     gene8           complement(2201687..2202610)
+                     /gene="BdWA1_001066"
+     gene8           complement(2559577..2561061)
+                     /gene="BdWA1_001248"
+     gene8           complement(2836687..2837832)
+                     /gene="BdWA1_001388"
+CONTIG      1..3133627
+//

@@ -1,0 +1,30 @@
+     gene1           complement(1747..10201)
+                     /gene="BdWA1_002856"
+     gene1           complement(10921..24592)
+                     /gene="BdWA1_002857"
+     gene1           complement(24804..56294)
+                     /gene="BdWA1_002858"
+     gene1           complement(56463..85859)
+                     /gene="BdWA1_002859"
+     gene1           complement(86071..98685)
+                     /gene="BdWA1_002860"
+     gene4           101988..104324
+                     /gene="BdWA1_002863"
+     gene4           261415..263283
+                     /gene="BdWA1_002934"
+     gene6           complement(959138..960616)
+                     /gene="BdWA1_003302"
+     gene6           complement(961043..962497)
+                     /gene="BdWA1_003303"
+     gene6           complement(962863..964317)
+                     /gene="BdWA1_003304"
+     gene6           complement(964778..966208)
+                     /gene="BdWA1_003305"
+     gene7           complement(984784..987267)
+                     /gene="BdWA1_003317"
+     gene7           complement(988176..991079)
+                     /gene="BdWA1_003318"
+     gene8           507627..509423
+                     /gene="BdWA1_003055"
+     gene8           complement(909462..910787)
+                     /gene="BdWA1_003273"

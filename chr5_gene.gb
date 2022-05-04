@@ -1,0 +1,30 @@
+LOCUS       BdWA1           353949 bp    DNA     linear   CON 27-APR-2022
+DEFINITION  Babesia duncani chromosome 5 sequence.
+ACCESSION   BdWA1
+VERSION     BdWA1.0
+KEYWORDS    RefSeq.
+SOURCE      Babesia duncani (parasite)
+  ORGANISM  Babesia duncani
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+FEATURES             Location/Qualifiers
+     source          1..353949
+                     /organism="Babesia duncani"
+                     /mol_type="genomic DNA"
+                     /chromosome="5"
+     mRNA            5000..45000
+                     /gene="Centromere"
+     mRNA            complement(5000..45000)
+                     /gene="Centromere"
+     gene1           337708..350881
+                     /gene="BdWA1_003483"
+     gene2           70049..72033
+                     /gene="BdWA1_003353"
+     gene4           46643..48956
+                     /gene="BdWA1_003351"
+     gene7           111282..111650
+                     /gene="BdWA1_003372"
+CONTIG      1..353949
+//

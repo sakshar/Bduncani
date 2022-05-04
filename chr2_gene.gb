@@ -1,0 +1,52 @@
+LOCUS       BdWA1           1587141 bp    DNA     linear   CON 27-APR-2022
+DEFINITION  Babesia duncani chromosome 2 sequence.
+ACCESSION   BdWA1
+VERSION     BdWA1.0
+KEYWORDS    RefSeq.
+SOURCE      Babesia duncani (parasite)
+  ORGANISM  Babesia duncani
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+FEATURES             Location/Qualifiers
+     source          1..1587141
+                     /organism="Babesia duncani"
+                     /mol_type="genomic DNA"
+                     /chromosome="2"
+     mRNA            1510000..1550000
+                     /gene="Centromere"
+     mRNA            complement(1510000..1550000)
+                     /gene="Centromere"
+     gene4           10306..12246
+                     /gene="BdWA1_001498"
+     gene4           35183..36493
+                     /gene="BdWA1_001503"
+     gene4           complement(1363877..1365310)
+                     /gene="BdWA1_002170"
+     gene7           complement(864213..866436)
+                     /gene="BdWA1_001913"
+     gene7           complement(952047..957638)
+                     /gene="BdWA1_001963"
+     gene7           1245101..1246093
+                     /gene="BdWA1_002110"
+     gene7           1248293..1249429
+                     /gene="BdWA1_002112"
+     gene7           complement(1463603..1464331)
+                     /gene="BdWA1_002223"
+     gene7           complement(1465469..1467025)
+                     /gene="BdWA1_002224"
+     gene7           1482173..1484173
+                     /gene="BdWA1_002231"
+     gene8           122171..123979
+                     /gene="BdWA1_001541"
+     gene8           259171..260250
+                     /gene="BdWA1_001617"
+     gene8           581791..582597
+                     /gene="BdWA1_001779"
+     gene8           complement(1230942..1231723)
+                     /gene="BdWA1_002104"
+     gene8           complement(1505419..1505877)
+                     /gene="BdWA1_002244"
+CONTIG      1..1587141
+//
