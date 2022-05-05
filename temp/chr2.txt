@@ -1,30 +1,184 @@
-     gene4           10306..12246
-                     /gene="BdWA1_001498"
-     gene4           35183..36493
-                     /gene="BdWA1_001503"
-     gene4           complement(1363877..1365310)
-                     /gene="BdWA1_002170"
-     gene7           complement(864213..866436)
-                     /gene="BdWA1_001913"
-     gene7           complement(952047..957638)
-                     /gene="BdWA1_001963"
-     gene7           1245101..1246093
-                     /gene="BdWA1_002110"
-     gene7           1248293..1249429
-                     /gene="BdWA1_002112"
-     gene7           complement(1463603..1464331)
-                     /gene="BdWA1_002223"
-     gene7           complement(1465469..1467025)
-                     /gene="BdWA1_002224"
-     gene7           1482173..1484173
-                     /gene="BdWA1_002231"
-     gene8           122171..123979
-                     /gene="BdWA1_001541"
-     gene8           259171..260250
+     gene9           575797..577326
+                     /gene="BdWA1_001776"
+     gene9           complement(405869..407229)
+                     /gene="BdWA1_001694"
+     gene9           complement(1110040..1111331)
+                     /gene="BdWA1_002039"
+     gene9           292750..293248
+                     /gene="BdWA1_001634"
+     gene9           293478..294335
+                     /gene="BdWA1_001635"
+     gene9           complement(654195..656717)
+                     /gene="BdWA1_001812"
+     gene9           complement(1400425..1400873)
+                     /gene="BdWA1_002190"
+     gene9           433808..434989
+                     /gene="BdWA1_001708"
+     gene9           435258..436377
+                     /gene="BdWA1_001709"
+     gene9           252265..253200
+                     /gene="BdWA1_001612"
+     gene9           349315..350437
+                     /gene="BdWA1_001666"
+     gene9           350524..351360
+                     /gene="BdWA1_001667"
+     gene9           complement(1130292..1132776)
+                     /gene="BdWA1_002050"
+     gene9           complement(385337..387539)
+                     /gene="BdWA1_001685"
+     gene9           complement(390739..391086)
+                     /gene="BdWA1_001688"
+     gene9           1170311..1171962
+                     /gene="BdWA1_002071"
+     gene9           1171988..1173881
+                     /gene="BdWA1_002072"
+     gene9           complement(1137055..1138509)
+                     /gene="BdWA1_002053"
+     gene9           1135946..1136938
+                     /gene="BdWA1_002052"
+     gene9           666792..667804
+                     /gene="BdWA1_001818"
+     gene9           667831..668555
+                     /gene="BdWA1_001819"
+     gene9           complement(501162..501673)
+                     /gene="BdWA1_001737"
+     gene9           complement(501793..502122)
+                     /gene="BdWA1_001738"
+     gene9           1123671..1124867
+                     /gene="BdWA1_002046"
+     gene9           243826..244501
+                     /gene="BdWA1_001609"
+     gene9           complement(1185599..1186335)
+                     /gene="BdWA1_002079"
+     gene9           436448..438164
+                     /gene="BdWA1_001710"
+     gene9           complement(381546..384329)
+                     /gene="BdWA1_001684"
+     gene9           complement(647740..649611)
+                     /gene="BdWA1_001807"
+     gene9           complement(421357..422256)
+                     /gene="BdWA1_001702"
+     gene9           complement(1132970..1133550)
+                     /gene="BdWA1_002051"
+     gene9           1042933..1043783
+                     /gene="BdWA1_002007"
+     gene9           1043826..1044326
+                     /gene="BdWA1_002008"
+     gene9           complement(439164..440847)
+                     /gene="BdWA1_001712"
+     gene9           1180367..1182547
+                     /gene="BdWA1_002076"
+     gene9           1115058..1119971
+                     /gene="BdWA1_002042"
+     gene9           complement(813179..814910)
+                     /gene="BdWA1_001894"
+     gene9           complement(822837..824568)
+                     /gene="BdWA1_001896"
+     gene9           1393985..1394551
+                     /gene="BdWA1_002186"
+     gene9           426768..427978
+                     /gene="BdWA1_001705"
+     gene9           complement(1393693..1393908)
+                     /gene="BdWA1_002185"
+     gene9           complement(1153064..1153545)
+                     /gene="BdWA1_002064"
+     gene9           complement(1159806..1160287)
+                     /gene="BdWA1_002067"
+     gene9           653450..654139
+                     /gene="BdWA1_001811"
+     gene9           complement(197522..197984)
+                     /gene="BdWA1_001588"
+     gene9           complement(198054..198389)
+                     /gene="BdWA1_001589"
+     gene9           complement(1175659..1176776)
+                     /gene="BdWA1_002074"
+     gene9           complement(1168918..1169726)
+                     /gene="BdWA1_002070"
+     gene9           complement(410427..412183)
+                     /gene="BdWA1_001697"
+     gene9           complement(428050..429550)
+                     /gene="BdWA1_001706"
+     gene9           573632..574905
+                     /gene="BdWA1_001774"
+     gene9           574921..575474
+                     /gene="BdWA1_001775"
+     gene9           441093..443820
+                     /gene="BdWA1_001713"
+     gene9           255156..256638
+                     /gene="BdWA1_001614"
+     gene9           1395804..1398395
+                     /gene="BdWA1_002188"
+     gene9           complement(253671..254544)
+                     /gene="BdWA1_001613"
+     gene9           236593..237790
+                     /gene="BdWA1_001604"
+     gene9           263552..264661
+                     /gene="BdWA1_001619"
+     gene9           264717..265364
+                     /gene="BdWA1_001620"
+     gene9           246308..252176
+                     /gene="BdWA1_001611"
+     gene9           1398476..1399672
+                     /gene="BdWA1_002189"
+     gene9           422923..423861
+                     /gene="BdWA1_001703"
+     gene9           complement(244559..245915)
+                     /gene="BdWA1_001610"
+     gene9           complement(1394678..1395434)
+                     /gene="BdWA1_002187"
+     gene9           438289..439123
+                     /gene="BdWA1_001711"
+     gene9           complement(1182553..1184071)
+                     /gene="BdWA1_002077"
+     gene9           933419..933739
+                     /gene="BdWA1_001954"
+     gene9           934122..934541
+                     /gene="BdWA1_001955"
+     gene9           complement(415852..416485)
+                     /gene="BdWA1_001700"
+     gene9           1085086..1087077
+                     /gene="BdWA1_002024"
+     gene9           1087120..1088413
+                     /gene="BdWA1_002025"
+     gene9           complement(580049..581173)
+                     /gene="BdWA1_001778"
+     gene9           1388402..1389795
+                     /gene="BdWA1_002180"
+     gene9           complement(394970..398431)
+                     /gene="BdWA1_001690"
+     gene9           408554..410370
+                     /gene="BdWA1_001696"
+     gene9           complement(1127362..1128426)
+                     /gene="BdWA1_002048"
+     gene9           complement(335873..336955)
+                     /gene="BdWA1_001661"
+     gene9           complement(337043..338401)
+                     /gene="BdWA1_001662"
+     gene9           1186537..1187596
+                     /gene="BdWA1_002080"
+     gene9           complement(1184494..1185322)
+                     /gene="BdWA1_002078"
+     gene9           259171..260250
                      /gene="BdWA1_001617"
-     gene8           581791..582597
-                     /gene="BdWA1_001779"
-     gene8           complement(1230942..1231723)
+     gene9           complement(1230942..1231723)
                      /gene="BdWA1_002104"
-     gene8           complement(1505419..1505877)
-                     /gene="BdWA1_002244"
+     gene9           complement(379338..380528)
+                     /gene="BdWA1_001683"
+     gene9           388265..389287
+                     /gene="BdWA1_001686"
+     gene9           587878..591367
+                     /gene="BdWA1_001781"
+     gene9           1391188..1392196
+                     /gene="BdWA1_002182"
+     gene9           complement(1389851..1391111)
+                     /gene="BdWA1_002181"
+     gene9           1039781..1040215
+                     /gene="BdWA1_002003"
+     gene9           1040244..1040548
+                     /gene="BdWA1_002004"
+     gene9           1040596..1040934
+                     /gene="BdWA1_002005"
+     gene9           1124973..1127357
+                     /gene="BdWA1_002047"
+     gene9           1166050..1168848
+                     /gene="BdWA1_002069"

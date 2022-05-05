@@ -32,6 +32,7 @@ for ch in entries:
     # 1 = dark grey, 2 = red, 3 = green, 4 = blue, 5 =cyan, 6 = magenta, 10 = orange
     features = []
     for f in record.features:
+        """
         if f.type == "gene1":
             f.qualifiers["color"] = [2]
             features.append(f)
@@ -55,6 +56,10 @@ for ch in entries:
             features.append(f)
         elif f.type == "gene8": # ap: light sky blue
             f.qualifiers["color"] = [9]
+            features.append(f)
+        """
+        if f.type == "gene9":
+            f.qualifiers["color"] = [2]
             features.append(f)
         elif f.type == "mRNA":
             f.qualifiers["color"] = [1]
@@ -92,4 +97,4 @@ for ch in entries:
     # This chromosome is done
     chr_diagram.add(cur_chromosome)
 
-chr_diagram.draw("gene_chrom.pdf", "")
+chr_diagram.draw("duplicate_genes.pdf", "")

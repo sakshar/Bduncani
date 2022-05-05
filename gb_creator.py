@@ -72,6 +72,19 @@ for ID in genes:
     if ch in entries:
         gene_dict[ID] = (ch, start, end, sign)
 
+dup = open("MGFs/duplicate.txt", "r")
+dup_gene = []
+while True:
+    line = dup.readline().strip()
+    if not line:
+        break
+    g = line.split("-")[0]
+    if g in gene_dict.keys():
+        dup_gene.append(g)
+print(len(dup_gene))
+fs = [open("temp/chr1.txt", "w"), open("temp/chr2.txt", "w"), open("temp/chr3.txt", "w"), open("temp/chr4.txt", "w"), open("temp/chr5.txt", "w")]
+gb_writer(gene_dict, dup_gene, fs, 9)
+"""
 gpi = open("MGFs/gpi.txt", "r")
 ap = open("MGFs/ap.txt", "r")
 gpi_gene, ap_gene = [], []
@@ -169,5 +182,6 @@ gb_writer(gene_dict, gene6, fs, 6)
 gb_writer(gene_dict, gpi_gene, fs, 7)  # color: brown
 # gene8
 gb_writer(gene_dict, ap_gene, fs, 8)  # color: light sky blue
+"""
 for f in fs:
     f.close()

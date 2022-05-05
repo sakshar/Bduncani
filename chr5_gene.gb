@@ -26,5 +26,39 @@ FEATURES             Location/Qualifiers
                      /gene="BdWA1_003351"
      gene7           111282..111650
                      /gene="BdWA1_003372"
+     gene9           226071..227960
+                     /gene="BdWA1_003433"
+     gene9           230441..231910
+                     /gene="BdWA1_003435"
+     gene9           255869..256900
+                     /gene="BdWA1_003446"
+     gene9           256938..257345
+                     /gene="BdWA1_003447"
+     gene9           81032..81778
+                     /gene="BdWA1_003358"
+     gene9           complement(229843..230313)
+                     /gene="BdWA1_003434"
+     gene9           82671..84146
+                     /gene="BdWA1_003359"
+     gene9           217851..219193
+                     /gene="BdWA1_003428"
+     gene9           complement(209559..212047)
+                     /gene="BdWA1_003425"
+     gene9           319900..320645
+                     /gene="BdWA1_003474"
+     gene9           320722..321735
+                     /gene="BdWA1_003475"
+     gene9           322150..324628
+                     /gene="BdWA1_003476"
+     gene9           complement(84211..86433)
+                     /gene="BdWA1_003360"
+     gene9           complement(221137..222237)
+                     /gene="BdWA1_003431"
+     gene9           213010..215939
+                     /gene="BdWA1_003426"
+     gene9           125691..126706
+                     /gene="BdWA1_003378"
+     gene9           126721..127347
+                     /gene="BdWA1_003379"
 CONTIG      1..353949
 //
